@@ -11,8 +11,7 @@ require_once("includes/dbcon.php");
 
 function strtoupper_utf8($string){
 	$string=utf8_decode($string);
-	$string=strtoupper($string);
-	//$string=utf8_encode($string);
+	$string=strtoupper($string);	
 	return $string;
 }	
 
