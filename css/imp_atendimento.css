@@ -1,0 +1,219 @@
+@charset "utf-8";
+body
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+}
+
+
+.verticaltext
+{
+	
+	writing-mode: tb-rl;
+	font-size:12px;
+	font-weight:bold;
+	text-align:right;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #333333;
+
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #333333;
+	
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #333333;
+
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #333333;
+
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
+
+}
+
+.verticaltext1
+{
+	
+	writing-mode: tb-rl;
+	font-size:8px;
+	font-weight:bold;
+	text-align:right;	
+
+}
+
+.diario
+{
+	font-size:8px;
+	font-weight:bold;
+	text-align:center;	
+}
+
+.titulo
+{
+	font-size:18px;
+	font-weight:bold;
+	text-align:center;	
+}
+
+.titulo2
+{
+	font-size:14px;
+	font-weight:bold;
+	text-align:center;	
+}
+
+
+.subtitulo
+{
+	font-size:12px;
+	font-weight:bold;
+	text-align:center;	
+}
+
+.item
+{
+	font-size:10px;
+	font-weight:normal;
+	text-align:right;
+}
+.botao
+{
+	font-size:8px;
+	font-weight:normal;
+	text-align:center;
+}
+
+
+.descricao
+{
+	font-size:11px;
+	text-transform:uppercase;
+}
+
+.assistido
+{
+	font-size:12px;
+	font-weight:bold;
+	text-align:right;
+
+	border-width: 1px;
+	border-style: solid;
+	border-color: #333333;
+
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #333333;
+	
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #333333;
+
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #333333;
+
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
+
+
+}
+.assistido2
+{
+	font-size:9px;
+	font-weight:bold;
+	text-align:right;
+	border-style: solid; 
+	border-width: thin;
+	border-color:#333333;	
+	
+	border-width: 1px;
+	border-style: solid;
+	border-color: #333333;
+
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #333333;
+	
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #333333;
+
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #333333;
+
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
+	
+	
+}
+
+.assistido3
+{
+	font-size:9px;
+	font-weight:bold;
+	text-align:center;
+	border-style: solid; 
+	border-width: thin;
+	border-color:#333333;	
+	
+	border-width: 1px;
+	border-style: solid;
+	border-color: #333333;
+
+	border-right-width: 1px;
+	border-right-style: solid;
+	border-right-color: #333333;
+	
+	border-left-width: 1px;
+	border-left-style: solid;
+	border-left-color: #333333;
+
+	border-top-width: 1px;
+	border-top-style: solid;
+	border-top-color: #333333;
+
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #333333;
+	
+	
+}
+
+
+.assistido_cons
+{
+	font-size:10px;
+	font-weight:bold;
+	text-align:right;	
+}
+
+
+.nome
+{
+	font-size:14px;
+	font-weight:bolder;
+	text-transform:uppercase;		
+}
+
+.nome_cons
+{
+	font-size:11px;
+	font-weight:bolder;
+	text-transform:uppercase;
+	color: #666666;	
+}
+
+
+table#atendimento
+{
+	border:thin;
+	
+}

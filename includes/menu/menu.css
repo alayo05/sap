@@ -1,0 +1,56 @@
+/* Sistema de Cadastro Penal; text properties for states: normal, click */
+.TM0i0 {
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;;
+	color: #FFFFFF;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	padding: 4px;	
+}
+
+/* Sistema de Cadastro Penal; box properties for states: normal */
+.TM0o0 {
+	background: #006600;
+	border: 2px solid #003300;
+	text-align: center;
+	vertical-align: bottom;
+	text-decoration: none;
+}
+
+/* Sistema de Cadastro Penal; text properties for states: hover */
+.TM0i1 {
+	font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;;
+	color: #FFFF00;
+	font-size: 14px;
+	font-weight: bold;
+	font-style: normal;
+	text-decoration: none;
+	padding: 4px;
+}
+
+/* Sistema de Cadastro Penal; box properties for states: hover, click */
+.TM0o1 {
+	background: #009900;
+	border: 2px solid #000000;
+	text-align: center;
+	vertical-align: bottom;
+	text-decoration: none;
+}
+
+#e0_0o{
+	position:relative !important;		
+}
+
+#e0_13o{
+	width:70px !important;	
+}
+
+#e0_14o{
+	width:70px !important;	
+}
+
+#e0_15o{
+	width:70px !important;	
+	left:648px !important;
+}

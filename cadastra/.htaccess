@@ -1,0 +1,4 @@
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^$
+RewriteCond %{HTTP_REFERER} !^http://(www\.)?sistemas.defensoria.ms.gov.br/.*$ [NC]
+RewriteRule \.(gif|jpg|zip|swf|rar|png)$ – [F]

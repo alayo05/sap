@@ -1,0 +1,16 @@
+<?php 
+	$con = mysql_connect($hostname,$username,$password);
+	if ($con === FALSE)
+	{
+		echo "Não foi possível conectar ao banco de dados!" . mysql_Error();
+		exit;
+	}
+		
+	$banco = mysql_select_db($database,$con);
+	if($con === FALSE)
+	{
+		echo "Não foi possível conectar ao banco de dados!" . mysql_Error();
+		exit;
+	}
+
+?>
